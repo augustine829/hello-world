@@ -1,0 +1,1000 @@
+ 1202  python --v
+ 1203  python --version
+ 1204  vim
+ 1205  clear
+ 1206  ls
+ 1207  sudo apt-get install go
+ 1208  sudo apt-get install java
+ 1209  sudo apt-get install js
+ 1210  sudo apt-get install javascript
+ 1211  wget -qO- https://raw.github.com/ma6174/vim/master/setup.sh | sh -x
+ 1212  top
+ 1213  clear
+ 1214  ls
+ 1215  clear
+ 1216  ls
+ 1217  pwd
+ 1218  cd Workplace/
+ 1219  LS
+ 1220  clear
+ 1221  ls
+ 1222  cd ShellWorkplace/
+ 1223  ls
+ 1224  cd ..
+ 1225  ls
+ 1226  cd Environment/
+ 1227  ls
+ 1228  cd ..
+ 1229  ls
+ 1230  cd DevOps/
+ 1231  ls
+ 1232  python SpiderCode.py 
+ 1233  clewar
+ 1234  clear
+ 1235  ls
+ 1236  vim SpiderCode.py 
+ 1237  vim SpiderPic.py 
+ 1238  python SpiderPic.py 
+ 1239  clear
+ 1240  ls
+ 1241  top
+ 1242  clear
+ 1243  ls
+ 1244  cd ..
+ 1245  ls
+ 1246  pwd
+ 1247  mkdir -r Google
+ 1248  mkdir -R Google
+ 1249  mkdir -p Google
+ 1250  ls
+ 1251  work
+ 1252  ls
+ 1253  pwd
+ 1254  clear
+ 1255  ls
+ 1256  htop
+ 1257  clear
+ 1258  ls
+ 1259  pwd
+ 1260  ls
+ 1261  cd ..
+ 1262  ls
+ 1263  cd ..
+ 1264  ls
+ 1265  cd augustine/
+ 1266  ls
+ 1267  poweroff
+ 1268  sudo poweroff
+ 1269  ls
+ 1270  cd Workplace/
+ 1271  ls
+ 1272  cd ..
+ 1273  ls
+ 1274  cd ..
+ 1275  cd /opt/
+ 1276  ls
+ 1277  echo $PATH
+ 1278  clear
+ 1279  ls
+ 1280  cd /mnt/
+ 1281  ls
+ 1282  cd usb/
+ 1283  ls
+ 1284  cd ..
+ 1285  ls
+ 1286  cd ..
+ 1287  ls
+ 1288  cd tmp/
+ 1289  ls
+ 1290  cd vmware-root/
+ 1291  ls
+ 1292  cd ..
+ 1293  ls
+ 1294  cd media/
+ 1295  ls
+ 1296  cd augustine/
+ 1297  ls
+ 1298  cd ..
+ 1299  ls
+ 1300  cd zon
+ 1301  cd zoey/
+ 1302  ls
+ 1303  cd ..
+ 1304  ls
+ 1305  rm -rm zoey
+ 1306  sudo rm -rf zoey
+ 1307  ls
+ 1308  cd /opt/
+ 1309  ls
+ 1310  work
+ 1311  ls
+ 1312  nautilus -q
+ 1313  sudo apt-get update
+ 1314  sudo apt-get install samba
+ 1315  sudo smbpasswd -a Augustine
+ 1316  ls
+ 1317  find -n Augustine
+ 1318  find -name Augustine
+ 1319  ls
+ 1320  clear
+ 1321  ls
+ 1322  pwd
+ 1323  cd /home/
+ 1324  ls
+ 1325  pwd
+ 1326  cd ~
+ 1327  ls
+ 1328  mkdir /home/Augustine/Workshop
+ 1329  mkdir /home/augustine/Workshop
+ 1330  sudo cp /etc/samba/smb.conf ~
+ 1331  pwd
+ 1332  cd ~
+ 1333  ls
+ 1334  ll
+ 1335  vim smb.conf 
+ 1336  clear
+ 1337  ls
+ 1338  vim smb.conf 
+ 1339  ls
+ 1340  sudo service smbd restart
+ 1341  testparm
+ 1342  sudo powerrf
+ 1343  sudo poweroff
+ 1344  ls
+ 1345  cd Workshop/
+ 1346  ls
+ 1347  tar zxvf VMwareTools-10.1.6-5214329.tar.gz 
+ 1348  ls
+ 1349  cd vmware-tools-distrib/
+ 1350  ls
+ 1351  ./vmware-install.pl 
+ 1352  sudo ./vmware-install.pl 
+ 1353  ls
+ 1354  cd /mnt
+ 1355  ls
+ 1356  work
+ 1357  vmhgfs-fuse .host:/ /mnt/hgfs/
+ 1358  sudo mkdir /mnt/hghf
+ 1359  sudo mkdir /mnt/hgfs
+ 1360  vmhgfs-fuse .host:/ /mnt/hgfs/
+ 1361  sudo vmhgfs-fuse .host:/ /mnt/hgfs/
+ 1362  ls
+ 1363  cd /mnt/
+ 1364  ls
+ 1365  cd hghf/
+ 1366  cd ..
+ 1367  ls
+ 1368  sudo rm -rf /mnt/hghf/
+ 1369  ls
+ 1370  cd mnt
+ 1371  ls
+ 1372  cd hg
+ 1373  ls
+ 1374  cd hgfs
+ 1375  sudo cd hgfs
+ 1376  ls
+ 1377  ll
+ 1378  rm -rf hgfs
+ 1379  sudo rm -rf hgfs
+ 1380  ls
+ 1381  work
+ 1382  ls
+ 1383  cd ls
+ 1384  cd /mnt/
+ 1385  ls
+ 1386  ls -rF
+ 1387  cd hgfs
+ 1388  sudo ls -rF
+ 1389  sudo cd hgfs
+ 1390  work
+ 1391  ls
+ 1392  sudo rm -rf /mnt/hgfs 
+ 1393  ls
+ 1394  cd /mnt/
+ 1395  ls
+ 1396  clear
+ 1397  ls
+ 1398  mkdir /opt/hgfs
+ 1399  clear
+ 1400  ls
+ 1401  sudo reboot
+ 1402  cd /mnt/hgfs/
+ 1403  ls
+ 1404  pwd
+ 1405  clear
+ 1406  sudo poweroff
+ 1407  work
+ 1408  ls
+ 1409  cd /mnt/hgfs/
+ 1410  ls
+ 1411  pwd
+ 1412  ls
+ 1413  ls -lar
+ 1414  sudo reboot
+ 1415  cd /mnt/hgfs/
+ 1416  ls
+ 1417  pwd
+ 1418  ls
+ 1419  sudo rebppt
+ 1420  sudo reboot\
+ 1421  ls -l /mnt/hgfs/
+ 1422  cd /mnt/hgfs/
+ 1423  ls
+ 1424  pwd
+ 1425  ls
+ 1426  cd ..
+ 1427  ls
+ 1428  cd usb/
+ 1429  ls
+ 1430  cdls
+ 1431  cd ..
+ 1432  ls
+ 1433  pwd
+ 1434  ls
+ 1435  cd hgfs/
+ 1436  ls
+ 1437  pwd
+ 1438  ls
+ 1439  cd ..
+ 1440  ls
+ 1441  cd hgfs/
+ 1442  ls
+ 1443  pwd
+ 1444  ls
+ 1445  work
+ 1446  ls
+ 1447  cd ..
+ 1448  ls
+ 1449  cd Workshop/
+ 1450  ls
+ 1451  tar zxvf VMwareTools-10.1.6-5214329.tar.gz 
+ 1452  ls
+ 1453  LS
+ 1454  ls
+ 1455  cd vmware-tools-distrib/
+ 1456  ls
+ 1457  ./vmware-install.pl 
+ 1458  cd /media/
+ 1459  ls
+ 1460  cd augustine/
+ 1461  ls
+ 1462  work
+ 1463  ls
+ 1464  cd ..
+ 1465  ls
+ 1466  cd Workshop/
+ 1467  ls
+ 1468  cd vmware-tools-distrib/
+ 1469  ls
+ 1470  ./vmware-install.pl 
+ 1471  sudo ./vmware-install.pl 
+ 1472  ls
+ 1473  work
+ 1474  ls
+ 1475  cd /mnt/
+ 1476  ls
+ 1477  cd hgfs/
+ 1478  ls
+ 1479  cd ..
+ 1480  ls
+ 1481  work
+ 1482  ls
+ 1483  sudo rm -rf /mnt/hgfs
+ 1484  ls
+ 1485  sudo poweroff
+ 1486  ls
+ 1487  cd /mnt/
+ 1488  ls
+ 1489  vmhgfs-fuse .host:/ /mnt/hgfs/
+ 1490  mkdir /mnt/hgfs
+ 1491  sudo mkdir /mnt/hgfs
+ 1492  vmhgfs-fuse .host:/ /mnt/hgfs/
+ 1493  sudo vmhgfs-fuse .host:/ /mnt/hgfs/
+ 1494  cd /mnt/hf
+ 1495  sudo poweroff
+ 1496  ls
+ 1497  cd /mnt/
+ 1498  ls
+ 1499  cd hgfs/
+ 1500  ls
+ 1501  ll
+ 1502  pwd
+ 1503  cd /media/
+ 1504  ls
+ 1505  cd augustine/
+ 1506  ls
+ 1507  ll
+ 1508  work
+ 1509  ls
+ 1510  cd /opt/
+ 1511  ls
+ 1512  work
+ 1513  ls
+ 1514  clear
+ 1515  ls
+ 1516  cd /mnt/
+ 1517  ls
+ 1518  cd hgfs/
+ 1519  ls
+ 1520  cd ..
+ 1521  ls
+ 1522  cd usb/
+ 1523  ls
+ 1524  cd ..
+ 1525  ls
+ 1526  ln -s /mnt/hgfs/share/ ~/share
+ 1527  ls
+ 1528  ln
+ 1529  cd ~
+ 1530  ls
+ 1531  cd share
+ 1532  cd /mnt/hgfs/
+ 1533  ls
+ 1534  ln -s /mnt/hgfs/share/ ~/share
+ 1535  sudo poweroff
+ 1536  ls
+ 1537  rm -rf share 
+ 1538  ls
+ 1539  cd /mnt/hgfs/
+ 1540  ls
+ 1541  ln -s /mnt/hgfs/share/ ~/share
+ 1542  ls
+ 1543  work
+ 1544  ls
+ 1545  cd ..
+ 1546  ls
+ 1547  rm -rf share 
+ 1548  ls
+ 1549  ls -l /mnt/hgfs/
+ 1550  ls  /mnt/hgfs/
+ 1551  pwd
+ 1552  cd ~
+ 1553  ls
+ 1554  mkdir Share
+ 1555  ls
+ 1556  cd /mnt/hgfs/
+ 1557  ln -s /mnt/hgfs/share/ ~/share
+ 1558  ln -s /mnt/hgfs/share/ ~/Share
+ 1559  ls
+ 1560  work
+ 1561  ls
+ 1562  cd ..
+ 1563  ls
+ 1564  rm share 
+ 1565  ls
+ 1566  ls -l Share/
+ 1567  ls
+ 1568  cd /mnt/hgfs/
+ 1569  ls
+ 1570  pwd
+ 1571  clear
+ 1572  ls
+ 1573  sudo poweroff
+ 1574  clear
+ 1575  ls
+ 1576  who
+ 1577  uname -a
+ 1578  python -v
+ 1579  ls
+ 1580  cd Work
+ 1581  work
+ 1582  ls
+ 1583  cd ShellWorkplace/
+ 1584  ls
+ 1585  cd ..
+ 1586  ls
+ 1587  cd Environment/
+ 1588  ls
+ 1589  cd ..
+ 1590  ls
+ 1591  cd Google/
+ 1592  ls
+ 1593  cd ..
+ 1594  ls
+ 1595  ls -R
+ 1596  CLEAR
+ 1597  clear
+ 1598  ls
+ 1599  cd Philips/
+ 1600  LS
+ 1601  ls
+ 1602  cd ..
+ 1603  ls
+ 1604  cd tmp/
+ 1605  ls
+ 1606  cd ..
+ 1607  ls
+ 1608  cd ..
+ 1609  ls
+ 1610  cd Workshop/
+ 1611  ls
+ 1612  cd ..
+ 1613  ls
+ 1614  work
+ 1615  ls
+ 1616  cd tmp/
+ 1617  ls
+ 1618  vim hellowork.py
+ 1619  ls
+ 1620  python hellowork.py 
+ 1621  vim hellowork.py
+ 1622  ls
+ 1623  clear
+ 1624  ls
+ 1625  thop
+ 1626  htop
+ 1627  clear
+ 1628  ls
+ 1629  sudo poweroff
+ 1630  python --version
+ 1631  ls
+ 1632  mkdir Python
+ 1633  ls
+ 1634  cd Python/
+ 1635  LS
+ 1636  clear
+ 1637  ls
+ 1638  sudo apt-get install pep8
+ 1639  clear
+ 1640  ls
+ 1641  vim Chicago.py
+ 1642  ls
+ 1643  python Chicago.py 
+ 1644  ls
+ 1645  vim Chicago.py
+ 1646  python Chicago.py 
+ 1647  vim Chicago.py
+ 1648  python Chicago.py 
+ 1649  clear
+ 1650  python Chicago.py 
+ 1651  chmod x+u Chicago.py 
+ 1652  chmod 777 Chicago.py 
+ 1653  ls
+ 1654  clear
+ 1655  ls
+ 1656  ./Chicago.py 
+ 1657  clear
+ 1658  ls
+ 1659  vim Chicago.py
+ 1660  ./Chicago.py 
+ 1661  vim Chicago.py
+ 1662  ./Chicago.py 
+ 1663  vim Chicago.py
+ 1664  ./Chicago.py 
+ 1665  vim Chicago.py
+ 1666  ./Chicago.py 
+ 1667  vim Chicago.py
+ 1668  clear
+ 1669  ./Chicago.py 
+ 1670  vim Chicago.py
+ 1671  ./Chicago.py 
+ 1672  vim Chicago.py
+ 1673  ./Chicago.py 
+ 1674  vim Chicago.py
+ 1675  ./Chicago.py 
+ 1676  vim Chicago.py
+ 1677  ./Chicago.py 
+ 1678  vim Chicago.py
+ 1679  ./Chicago.py 
+ 1680  clear
+ 1681  vim Chicago.py
+ 1682  ./Chicago.py 
+ 1683  vim Chicago.py
+ 1684  ./Chicago.py 
+ 1685  vim Chicago.py
+ 1686  clear
+ 1687  ls
+ 1688  ./Chicago.py 
+ 1689  vim Chicago.py
+ 1690  ls
+ 1691  ./Chicago.py 
+ 1692  clear
+ 1693  ls
+ 1694  vim Chicago.py
+ 1695  ./Chicago.py 
+ 1696  vim Chicago.py
+ 1697  ./Chicago.py 
+ 1698  vim Chicago.py
+ 1699  ./Chicago.py 
+ 1700  vim Chicago.py
+ 1701  ./Chicago.py 
+ 1702  clear
+ 1703  vim Chicago.py
+ 1704  ./Chicago.py 
+ 1705  vim Chicago.py
+ 1706  ./Chicago.py 
+ 1707  vim Chicago.py
+ 1708  ./Chicago.py 
+ 1709  vim Chicago.py
+ 1710  ./Chicago.py 
+ 1711  vim Chicago.py
+ 1712  ./Chicago.py 
+ 1713  vim Chicago.py
+ 1714  ./Chicago.py 
+ 1715  vim Chicago.py
+ 1716  ./Chicago.py 
+ 1717  vim Chicago.py
+ 1718  ./Chicago.py 
+ 1719  clear
+ 1720  vim Chicago.py
+ 1721  clear
+ 1722  ./Chicago.py 
+ 1723  vim Chicago.py
+ 1724  ./Chicago.py 
+ 1725  vim Chicago.py
+ 1726  ./Chicago.py 
+ 1727  clear
+ 1728  ls
+ 1729  vim Chicago.py 
+ 1730  ./Chicago.py 
+ 1731  clear
+ 1732  ls
+ 1733  vim Chicago.py 
+ 1734  ./Chicago.py 
+ 1735  vim Chicago.py 
+ 1736  ./Chicago.py 
+ 1737  vim Chicago.py 
+ 1738  ./Chicago.py 
+ 1739  vim Chicago.py 
+ 1740  ./Chicago.py 
+ 1741  clear
+ 1742  ls
+ 1743  vim Chicago.py 
+ 1744  ./Chicago.py 
+ 1745  vim Chicago.py 
+ 1746  ./Chicago.py 
+ 1747  ls
+ 1748  clear
+ 1749  vim Chicago.py 
+ 1750  ./Chicago.py 
+ 1751  vim Chicago.py 
+ 1752  ./Chicago.py 
+ 1753  vim Chicago.py 
+ 1754  ./Chicago.py 
+ 1755  htop
+ 1756  clear
+ 1757  sudp poweroff
+ 1758  sudo poweroff
+ 1759  ls
+ 1760  cd Python/
+ 1761  lws
+ 1762  ls
+ 1763  clear
+ 1764  ls
+ 1765  clear
+ 1766  ls
+ 1767  vim Chicago.py 
+ 1768  ls
+ 1769  clear
+ 1770  ls
+ 1771  python Chicago.py 
+ 1772  usname -a
+ 1773  uname -a
+ 1774  clear
+ 1775  ls
+ 1776  vim Chicago.py 
+ 1777  python Chicago.py 
+ 1778  clear
+ 1779  ls
+ 1780  mv Chicago.py Chicago_1.py
+ 1781  ls
+ 1782  vim Chicago_2.py
+ 1783  ls
+ 1784  sudo chmod u+x Chicago_2.py 
+ 1785  ls
+ 1786  clear
+ 1787  ls
+ 1788  LS
+ 1789  clear
+ 1790  ls
+ 1791  python Chicago_2.py 
+ 1792  vim Chicago_2.py
+ 1793  python Chicago_2.py 
+ 1794  vim Chicago_2.py
+ 1795  python Chicago_2.py 
+ 1796  vim Chicago_2.py
+ 1797  python Chicago_2.py 
+ 1798  vim Chicago_2.py
+ 1799  python Chicago_2.py 
+ 1800  vim Chicago_2.py
+ 1801  python Chicago_2.py 
+ 1802  vim Chicago_2.py
+ 1803  python Chicago_2.py 
+ 1804  vim Chicago_2.py
+ 1805  python Chicago_2.py 
+ 1806  vim Chicago_2.py
+ 1807  python Chicago_2.py 
+ 1808  vim Chicago_2.py
+ 1809  python Chicago_2.py 
+ 1810  vim Chicago_2.py
+ 1811  python Chicago_2.py 
+ 1812  vim Chicago_2.py
+ 1813  python Chicago_2.py 
+ 1814  vim Chicago_2.py
+ 1815  python Chicago_2.py 
+ 1816  clear
+ 1817  ls
+ 1818  vim Chicago_2.py 
+ 1819  ls
+ 1820  vim Chicago_1
+ 1821  vim Chicago_1.py 
+ 1822  ls
+ 1823  vim Chicago_2.py 
+ 1824  python Chicago_2.py 
+ 1825  vim Chicago_2.py 
+ 1826  python Chicago_2.py 
+ 1827  clear
+ 1828  ls
+ 1829  vim Chicago_2.py 
+ 1830  python Chicago_2.py 
+ 1831  vim Chicago_2.py 
+ 1832  python Chicago_2.py 
+ 1833  clear
+ 1834  ls
+ 1835  clear
+ 1836  ls
+ 1837  vim list.py
+ 1838  ls
+ 1839  sudo chmod x+u list.py 
+ 1840  sudo chmod u+x list.py 
+ 1841  ls
+ 1842  python list.py 
+ 1843  vim list.py
+ 1844  ls
+ 1845  python list.py 
+ 1846  vim list.py
+ 1847  ls
+ 1848  python list.py 
+ 1849  vim list.py
+ 1850  ls
+ 1851  python list.py 
+ 1852  vim list.py
+ 1853  python list.py 
+ 1854  vim list.py
+ 1855  clear
+ 1856  ls
+ 1857  python list.py 
+ 1858  vim list.py
+ 1859  python list.py 
+ 1860  vim list.py
+ 1861  clear
+ 1862  python list.py 
+ 1863  clear
+ 1864  ls
+ 1865  vim list.py 
+ 1866  ls
+ 1867  python list.py 
+ 1868  ls
+ 1869  vim list.py 
+ 1870  python list.py 
+ 1871  vim list.py 
+ 1872  python list.py 
+ 1873  vim list.py 
+ 1874  python list.py 
+ 1875  vim list.py 
+ 1876  python list.py 
+ 1877  vim list.py 
+ 1878  python list.py 
+ 1879  vim list.py 
+ 1880  python list.py 
+ 1881  clear
+ 1882  vim list.py 
+ 1883  python list.py 
+ 1884  vim list.py 
+ 1885  python list.py 
+ 1886  clear
+ 1887  ls
+ 1888  clear
+ 1889  ls
+ 1890  vim list.py 
+ 1891  python list.py 
+ 1892  vim list.py 
+ 1893  ls
+ 1894  sudo poweroff
+ 1895  ls
+ 1896  work
+ 1897  ls
+ 1898  cd ..
+ 1899  ls
+ 1900  cd Python/
+ 1901  ls
+ 1902  vim list.py 
+ 1903  ls
+ 1904  python list.py 
+ 1905  vim list.py 
+ 1906  ls
+ 1907  clear
+ 1908  ls
+ 1909  python list.py 
+ 1910  vim list.py 
+ 1911  python list.py 
+ 1912  vim list.py 
+ 1913  python list.py 
+ 1914  clear
+ 1915  ls
+ 1916  vim list.py 
+ 1917  python list.py 
+ 1918  vim list.py 
+ 1919  clear
+ 1920  ls
+ 1921  python list.py 
+ 1922  clear
+ 1923  ls
+ 1924  LS
+ 1925  clear
+ 1926  vim list.py 
+ 1927  ls
+ 1928  python list.py 
+ 1929  vim list.py 
+ 1930  python list.py 
+ 1931  vim list.py 
+ 1932  python list.py 
+ 1933  clear
+ 1934  ls
+ 1935  vim list.py 
+ 1936  python list.py 
+ 1937  vim list.py 
+ 1938  python list.py 
+ 1939  vim list.py 
+ 1940  clear
+ 1941  vim list.py 
+ 1942  python list.py 
+ 1943  vim list.py 
+ 1944  python list.py 
+ 1945  vim list.py 
+ 1946  python list.py 
+ 1947  vim list.py 
+ 1948  python list.py 
+ 1949  vim list.py 
+ 1950  python list.py 
+ 1951  clear
+ 1952  vim list.py 
+ 1953  python list.py 
+ 1954  vim list.py 
+ 1955  python list.py 
+ 1956  vim list.py 
+ 1957  python list.py 
+ 1958  vim list.py 
+ 1959  python list.py 
+ 1960  vim list.py 
+ 1961  cleawr
+ 1962  clear
+ 1963  ;ls
+ 1964  clear
+ 1965  ls
+ 1966  vim dict.py
+ 1967  ls
+ 1968  sudo chomod u+x dict.py 
+ 1969  sudo chmod u+x dict.py 
+ 1970  agilis
+ 1971  ls
+ 1972  clear
+ 1973  ls
+ 1974  python dict.py 
+ 1975  vim dict.py
+ 1976  python dict.py 
+ 1977  vim dict.py
+ 1978  python dict.py 
+ 1979  vim dict.py
+ 1980  clear
+ 1981  ls
+ 1982  cd Python/
+ 1983  ls
+ 1984  clear
+ 1985  ls
+ 1986  vim dict.py 
+ 1987  python dict.py 
+ 1988  vim dict.py 
+ 1989  python dict.py 
+ 1990  vim dict.py 
+ 1991  python dict.py 
+ 1992  vim dict.py 
+ 1993  python dict.py 
+ 1994  vim dict.py 
+ 1995  python dict.py 
+ 1996  vim dict.py 
+ 1997  clear
+ 1998  sudo poweroff
+ 1999  cls
+ 2000  clear
+ 2001  ls
+ 2002  cd Python/
+ 2003  ls
+ 2004  clear
+ 2005  ls
+ 2006  vim dict.py 
+ 2007  ls
+ 2008  python dict.py 
+ 2009  vim dict.py 
+ 2010  clear
+ 2011  ls
+ 2012  clear
+ 2013  pwd
+ 2014  clear
+ 2015  ls
+ 2016  LS
+ 2017  clear
+ 2018  ifconfig
+ 2019  clear
+ 2020  ls
+ 2021  htop
+ 2022  clear
+ 2023  ls
+ 2024  clear
+ 2025  ls
+ 2026  clear
+ 2027  ls
+ 2028  history
+ 2029  ls
+ 2030  clear
+ 2031  ls
+ 2032  history
+ 2033  clear
+ 2034  ls
+ 2035  history > /null
+ 2036  clear
+ 2037  ls
+ 2038  clear
+ 2039  ls
+ 2040  vim dict.py 
+ 2041  python dict.py 
+ 2042  vim dict.py 
+ 2043  ls
+ 2044  python dict.py 
+ 2045  ls
+ 2046  vim dict.py 
+ 2047  python dict.py 
+ 2048  vim dict.py 
+ 2049  clear
+ 2050  vim dict.py 
+ 2051  python dict.py 
+ 2052  vim dict.py 
+ 2053  python dict.py 
+ 2054* 
+ 2055  vim dict.py 
+ 2056  python dict.py 
+ 2057  vim dict.py 
+ 2058  python dict.py 
+ 2059  vim dict.py 
+ 2060  python dict.py 
+ 2061  clear
+ 2062  python dict.py 
+ 2063  clear
+ 2064  python dict.py 
+ 2065  vim dict.py 
+ 2066  python dict.py 
+ 2067  vim dict.py 
+ 2068  python dict.py 
+ 2069  vim dict.py 
+ 2070  python dict.py 
+ 2071  vim dict.py 
+ 2072  python dict.py 
+ 2073  vim dict.py 
+ 2074  python dict.py 
+ 2075  clear
+ 2076  vim dict.py 
+ 2077  clear
+ 2078  python dict.py 
+ 2079  vim dict.py 
+ 2080  python dict.py 
+ 2081  vim dict.py 
+ 2082  python dict.py 
+ 2083  vim dict.py 
+ 2084  python dict.py 
+ 2085  vim dict.py 
+ 2086  vim tuple.py
+ 2087  ls
+ 2088  chmod x+u tuple.py
+ 2089  sudo chmod x+u tuple.py
+ 2090  sudo chmod u+x  tuple.py
+ 2091  ls
+ 2092  clear
+ 2093  ls
+ 2094  vim tuple.py
+ 2095  phthon tuple.py 
+ 2096  python tuple.py 
+ 2097  vim tuple.py
+ 2098  python tuple.py 
+ 2099  vim tuple.py
+ 2100  python tuple.py 
+ 2101  clear
+ 2102  ls
+ 2103  vim tuple.py
+ 2104  python tuple.py 
+ 2105  vim tuple.py
+ 2106  python tuple.py 
+ 2107  vim tuple.py
+ 2108  python tuple.py 
+ 2109  vim tuple.py
+ 2110  python tuple.py 
+ 2111  vim tuple.py
+ 2112  python tuple.py 
+ 2113  clear
+ 2114  ls
+ 2115  vim tuple.py
+ 2116  python tuple.py 
+ 2117  vim tuple.py
+ 2118  python tuple.py 
+ 2119  clear
+ 2120  ks
+ 2121  clear
+ 2122  ls
+ 2123  vim tuple.py
+ 2124  python tuple.py 
+ 2125  vim tuple.py
+ 2126  python tuple.py 
+ 2127  clear
+ 2128  ls
+ 2129  vim tuple.py 
+ 2130  python tuple.py 
+ 2131  vim tuple.py 
+ 2132  python tuple.py 
+ 2133  vim tuple.py 
+ 2134  python tuple.py 
+ 2135  vim tuple.py 
+ 2136  python tuple.py 
+ 2137  vim tuple.py 
+ 2138  python tuple.py 
+ 2139  clear
+ 2140  ls
+ 2141  vim tuple.py 
+ 2142  python tuple.py 
+ 2143  vim tuple.py 
+ 2144  python tuple.py 
+ 2145  vim tuple.py 
+ 2146  python tuple.py 
+ 2147  vim tuple.py 
+ 2148  python tuple.py 
+ 2149  vim tuple.py 
+ 2150  clear
+ 2151  ls
+ 2152  vim Ostream.py
+ 2153  ls
+ 2154  sudo chmod u+x Ostream.py 
+ 2155  ls
+ 2156  clear
+ 2157  ls
+ 2158  cd ..
+ 2159  ls
+ 2160  cd Python/
+ 2161  ls
+ 2162  history >> a.txt
+ 2163  ls
+ 2164  cat a.txt
+ 2165  clear
+ 2166  ls
+ 2167  vim a.txt 
+ 2168  clear
+ 2169  ls
+ 2170  vim file.py
+ 2171  vim file.py 
+ 2172  ls
+ 2173  sudo chmod u+x file.py 
+ 2174  ls
+ 2175  python file.py 
+ 2176  vim file.py 
+ 2177  python file.py 
+ 2178  vim file.py 
+ 2179  python file.py 
+ 2180  vim file.py 
+ 2181  python file.py 
+ 2182  vim file.py 
+ 2183  python file.py 
+ 2184  vim file.py 
+ 2185  python file.py 
+ 2186  vim file.py 
+ 2187  python file.py 
+ 2188  vim file.py 
+ 2189  python file.py 
+ 2190  vim file.py 
+ 2191  python file.py 
+ 2192  vim file.py 
+ 2193  python file.py 
+ 2194  vim file.py 
+ 2195  python file.py 
+ 2196  vim file.py 
+ 2197  python file.py 
+ 2198  vim file.py 
+ 2199  ls
+ 2200  vim a.txt 
+ 2201  history > a.txt 
